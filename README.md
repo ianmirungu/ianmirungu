@@ -46,7 +46,7 @@ class About extends Me {
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/ian-irungu/)
-<img align="right" src="https://komarev.com/ghpvc/?username=ianmirungu" alt="Irungu" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ianmirungu&abbreviated=true" alt="Irungu" />
 
 <hr>
 
@@ -65,10 +65,11 @@ class About extends Me {
 <p align="center">
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=flat-square&logo=php&logoColor=6566ba&labelColor=0D1117" alt="php"></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0D1117" alt="python"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" alt="html5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" alt="css3"></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117" alt="bootstrap"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117" alt="javascript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117" alt="html5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117" alt="css3"></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=0D1117" alt="bootstrap"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-F5F542.svg?style=flat-square&logo=javascript&logoColor=F5F542&labelColor=0D1117" alt="javascript"></a>
+
 </p>
 
 <p align="center">
